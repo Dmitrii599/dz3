@@ -106,6 +106,7 @@ select:hover,
 .wrapper {
     display: flex;
     flex-direction: column;
+    gap: 60px;
 }
 
 .info-wrapper {
@@ -160,6 +161,7 @@ select:hover,
 .skills {
     /* 📍 Свойства flexbox для расположения элементов с классом .label */
     min-width: 50%;
+    gap: 20px;
 }
 
 .books-list {
